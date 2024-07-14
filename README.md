@@ -21,13 +21,6 @@ This project is an SSH honeypot implemented in Python. The honeypot logs authent
 ### Prerequisites
 
 - Python 3.x
-- Paramiko library
-
-You can install Paramiko using pip:
-
-```sh
-pip install paramiko
-```
 
 ### Setup
 
