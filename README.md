@@ -67,7 +67,7 @@ python main.py -a <address> -p <port> -u <username> -w <password>
 * `-a`, `--address`: IP address.
 * `-p`, `--port`: Port number.
 * `-u`, `--username`: (Optional) Username for authentication.
-* `-w`, `--password`: (Optional) Password for authentication.
+* `-d`, `--password`: (Optional) Password for authentication.
 
 ### Examples
 
