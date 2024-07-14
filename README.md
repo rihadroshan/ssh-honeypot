@@ -47,7 +47,7 @@ Run the honeypot server with the following command:
 python main.py -a <address> -p <port>
 ```
 
-By default, the honeypot will use the username `root` and the password `root`.
+By default, the honeypot will use the username `root`.
 
 ### Usage with Custom Authentication
 
