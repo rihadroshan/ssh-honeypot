@@ -163,7 +163,7 @@ if __name__ == "__main__":
     parser.add_argument('-a', '--address', type=str, required=True, help='IP address')
     parser.add_argument('-p', '--port', type=int, required=True, help='PORT')
     parser.add_argument('-u', '--username', type=str, help='Username')
-    parser.add_argument('-w', '--password', type=str, help='Password')
+    parser.add_argument('-d', '--password', type=str, help='Password')
     args = parser.parse_args()
 
     try:
