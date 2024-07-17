@@ -44,7 +44,7 @@ Run the honeypot server with the following command:
 ### Basic Usage
 
 ```sh
-python main.py -a <address> -p <port>
+python3 main.py -a <address> -p <port>
 ```
 
 By default, the honeypot will use the username `root`.
@@ -52,7 +52,7 @@ By default, the honeypot will use the username `root`.
 ### Usage with Custom Authentication
 
 ```sh
-python main.py -a <address> -p <port> -u <username> -w <password>
+python3 main.py -a <address> -p <port> -u <username> -w <password>
 ```
 
 ### Arguments
@@ -66,12 +66,12 @@ python main.py -a <address> -p <port> -u <username> -w <password>
 
 Basic Usage:
 ```sh
-python main.py -a 0.0.0.0 -p 2222
+python3 main.py -a 0.0.0.0 -p 2222
 ```
 
 Usage with Custom Authentication:
 ```sh
-python main.py -a 0.0.0.0 -p 2222 -u ubuntu -w pass
+python3 main.py -a 0.0.0.0 -p 2222 -u ubuntu -w pass
 ```
 
 ---
