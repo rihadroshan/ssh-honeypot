@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="/images/sshhoneypot-logo.png" alt="fabriclogo" width="400" height="400"/>
 
