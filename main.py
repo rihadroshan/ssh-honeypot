@@ -5,7 +5,7 @@ import threading
 import socket
 import argparse
 
-# Set up logging
+# Set up logging 
 logging.basicConfig(filename='ssh_sys.log', level=logging.INFO, format='%(asctime)s - %(message)s')
 
 server_key = paramiko.RSAKey(filename='server.key')
