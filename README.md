@@ -42,7 +42,6 @@ To bind to a specific IP address, use the `-a` argument:
 ```bash
 python3 server.py -a <IP address> -p <port> -u <username> -d <password>
 ```
----
 
 ## Examples
 
