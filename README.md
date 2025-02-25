@@ -19,7 +19,6 @@
    ```bash
    pip install -r requirements.txt
    ```
----
    
 ## **Basic Usage**
 
