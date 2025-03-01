@@ -58,11 +58,6 @@ python3 server.py -p 2222 -u ubuntu -d pass
 sudo python3 server.py -p 22 -u ubuntu -d pass
 ```
 
-### Binding to a Specific IP Address
-```bash
-python3 server.py -a 192.168.1.100 -p 2222
-
-
 ## Logs
 
 The honeypot logs activities in three rotating log files:
