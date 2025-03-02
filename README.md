@@ -7,6 +7,8 @@
 - **Command logging**: Logs all commands executed by the attacker.
 - **Customizable authentication**: Allows setting a custom username and password for authentication.
 - **Rotating log files**: Logs are stored in rotating files to prevent excessive disk usage.
+- - **Configurable CLI**: Easily set IP addresses, ports, and credentials.  
+ 
 
 ## **Installation**
 
