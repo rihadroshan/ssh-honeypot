@@ -83,7 +83,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Disclaimer
 
-This tool is intended for educational and research purposes only. Use it responsibly and only on networks you own or have permission to test. The authors are not responsible for any misuse or damage caused by this tool.
+Use it responsibly and only on networks you own or have permission to test. The authors are not responsible for any misuse or damage caused by this tool.
 
 ## Files in the Repository
 
