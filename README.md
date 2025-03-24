@@ -1,6 +1,5 @@
 **SSH honeypot** designed to mimic a fully functional SSH server, deceiving malicious actors into interacting with a controlled environment. It captures valuable data about unauthorized access attempts and command executions, providing actionable insights into potential attack patterns.
 
-
 ## **Features**
 
 
