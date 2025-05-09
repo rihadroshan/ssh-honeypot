@@ -1,8 +1,5 @@
 **SSH honeypot** designed to mimic a fully functional SSH server, deceiving malicious actors into interacting with a controlled environment. It captures valuable data about unauthorized access attempts and command executions, providing actionable insights into potential attack patterns.
 
-
-
-
 ## **Features**
 
 - **Log SSH connection attempts**: Captures IP addresses, usernames, and passwords used in authentication attempts.
@@ -12,7 +9,6 @@
 - **Rotating log files**: Logs are stored in rotating files to prevent excessive disk usage.
 - **Configurable CLI**: Easily set IP addresses, ports, and credentials.
 - **Secure by Default**: Automatically generates server keys for encrypted communication. 
-
 
 ## **Installation**
 
