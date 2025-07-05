@@ -11,6 +11,7 @@
 - **Secure by Default**: Automatically generates server keys for encrypted communication. 
 
 
+
 ## **Installation**
 
 1. **Clone this repository**:  
