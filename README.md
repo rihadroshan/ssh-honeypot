@@ -10,6 +10,7 @@
 - **Configurable CLI**: Easily set IP addresses, ports, and credentials.
 - **Secure by Default**: Automatically generates server keys for encrypted communication. 
 
+
 ## **Installation**
 
 1. **Clone this repository**:  
